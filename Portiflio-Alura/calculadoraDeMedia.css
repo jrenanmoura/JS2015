@@ -1,0 +1,42 @@
+body {
+    font-family: 'Comic Sans MS',cursive;
+    min-height: 400px;
+    background-image: url('http://www.formandovidas.com.br/site/wp-content/uploads/2021/08/aprovado_reprovado.jpg');
+    background-color: #000125;
+    background-size: 120vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 40px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color:red;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color:#ffff;
+     font-family: 'Comic Sans MS',cursive;
+    margin-top: 5px;
+  }
+  p {
+   color:#ffff;
+   font-family: 'Comic Sans MS',cursive;
+    font-size:15px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top:10px;
+    right: 10px;
+  }
